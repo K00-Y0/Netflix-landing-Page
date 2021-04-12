@@ -4,7 +4,7 @@
 
 - The implementation of the website can be viewed through the link below which was created using the netlify app.
 
-https://netfix-landing-page.netlify.app
+  https://netfix-landing-page.netlify.app
 
 ## Netlify
 
@@ -12,5 +12,5 @@ https://netfix-landing-page.netlify.app
 
 - Netlify app link is given below:
 
-https://www.netlify.com
+  https://www.netlify.com
 
